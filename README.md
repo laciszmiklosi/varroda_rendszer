@@ -1,4 +1,4 @@
-#Varroda rendszer álltalános leírás.
+Varroda rendszer álltalános leírás.
 
 Leltár menü
 
